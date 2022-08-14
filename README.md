@@ -1,4 +1,5 @@
 # Arabic twitter sentiment analysis 
+![Fake or real](https://drive.google.com/uc?export=view&id=1U8jy4JSCkezBzV9i39NOXEPaMiQlNUGr)
 ## Overview
 This projects tries to determine the sentiment of the arabic tweets that written in colloquial Arabic.</br>
 Here I used a pre-trained models from hugging face and then fine tune them and chose a champion model.</br>
